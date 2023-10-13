@@ -1,4 +1,3 @@
-
 package ru.orlovph.criminalintent2020;
 
 import java.util.Date;
